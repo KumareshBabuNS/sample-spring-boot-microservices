@@ -1,0 +1,19 @@
+[
+    {
+        "_class": "org.cloudfoundry.anycompany.poc.domain.Accessory",
+       
+        "name": "Apple 6 Iplug",
+        "description": "Test",
+        "sku": "45",
+        "location" : "storeX",
+        "color": "blue",
+        "size" : "medium",
+        "active" : true,
+        "creationTime": "2016-10-01T09:45:00.000",
+        "location": "Buckhead,Atlanta",
+        "promotion": true,
+        "price" : 24.99,
+        "promotion_type" : "valentine sale",
+        "attendees": [{"name": "Lisa"}, {"name": "Robin"}]
+    }
+]

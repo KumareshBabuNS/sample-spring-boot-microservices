@@ -1,0 +1,22 @@
+[
+    {
+        "_class": "org.cloudfoundry.anycompany.poc.domain.CalendarEvent",
+        "userId": 1,
+        "title": "Tin Consulting Party",
+        "when": "2016-11-01T19:45:00.000",
+        "reminderTime": "2016-10-01T09:45:00.000",
+        "location": "Buckhead,Atlanta",
+        "reminder": true,
+        "attendees": [{"name": "Lisa"}, {"name": "Robin"}]
+    },
+    {
+        "_class": "org.cloudfoundry.anycompany.poc.domain.CalendarEvent",
+        "userId": 1,
+        "title": "Accenture Consulting Party",
+        "when": "2016-12-22T19:45:00.000",
+        "reminderTime": "2016-10-01T09:45:00.000",
+        "location": "Marietta,Atlanta",
+        "reminder": false,
+        "attendees": [{"name": "Martin"}, {"name": "Robin"}]
+    }
+]
